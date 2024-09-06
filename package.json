@@ -1,0 +1,16 @@
+{
+  "name": "football-analysis",
+  "version": "1.0.0",
+  "description": "statistical analysis of football results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@stdlib/random-base-poisson": "^0.2.1",
+    "arquero": "^6.0.0"
+  }
+}
